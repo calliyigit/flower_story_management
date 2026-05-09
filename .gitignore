@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Database (contains real customer data)
+*.db
+
+# Temporary files
+*.tmp
+.fuse_hidden*

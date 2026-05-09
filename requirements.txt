@@ -1,0 +1,8 @@
+# Bu uygulama Python'un standart kütüphanelerini kullanır:
+# - tkinter (GUI)
+# - sqlite3 (veritabanı)
+# - datetime (tarih işlemleri)
+# Bu kütüphaneler Python ile birlikte gelir, ekstra kurulum gerekmez.
+
+# .exe oluşturmak için tek gereken:
+pyinstaller>=6.0.0
